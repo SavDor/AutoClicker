@@ -7,7 +7,7 @@ pip install -r pip.txt
 
 Start.py
 
-exe файл тут https://github.com/SavDor/AutoClicker/releases/tag/AutoClickerV0.3
+exe файл тут https://github.com/SavDor/AutoClicker/releases
 
 ENG:
 
@@ -17,4 +17,4 @@ Launch
 
 Start.py
 
-exe file here https://github.com/SavDor/AutoClicker/releases/tag/AutoClickerV0.3
+exe file here https://github.com/SavDor/AutoClicker/releases
